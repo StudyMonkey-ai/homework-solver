@@ -1,0 +1,26 @@
+{
+  "name": "studymonkey-ai-homework-solver",
+  "version": "1.0.0",
+  "description": "Homework Solver solve and understand any homework problem with step-by-step AI explanations",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "homework-solver",
+    "homework-help",
+    "ai",
+    "education",
+    "problem-solver",
+    "student",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "StudyMonkey",
+  "license": "ISC",
+  "homepage": "https://studymonkey.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studymonkey-ai/homework-solver.git"
+  }
+}
